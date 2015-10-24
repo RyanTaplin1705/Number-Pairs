@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=players
+comment0.target=Game(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Game\r\n
+comment1.params=
+comment1.target=void\ testRanks()
+comment2.params=
+comment2.target=Ranking\ getLeaderboard()
+comment3.params=
+comment3.target=Player\ getCurPlayer()
+comment4.params=
+comment4.target=void\ createPlayers()
+comment5.params=
+comment5.target=void\ setNextPlayerTurn()
+comment6.params=
+comment6.target=int\ getPlayerTurn()
+comment7.params=
+comment7.target=java.lang.String\ getFirstValue()
+comment8.params=e
+comment8.target=void\ setFirstValue(java.lang.String)
+comment9.params=
+comment9.target=java.util.ArrayList\ getPlayers()
+numComments=10

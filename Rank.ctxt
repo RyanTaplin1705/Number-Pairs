@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=p\ pn
+comment0.target=Rank(Player,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getPlayerName()
+comment2.params=
+comment2.target=Player\ getPlayer()
+comment3.params=p\ pn
+comment3.target=void\ setNew(Player,\ java.lang.String)
+numComments=4

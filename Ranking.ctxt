@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=player\ playerName
+comment0.target=void\ setRanking(Player,\ java.lang.String)
+comment1.params=
+comment1.target=java.util.ArrayList\ getRanking()
+comment2.params=player\ name
+comment2.target=void\ checkAddRank(Player,\ java.lang.String)
+numComments=3
